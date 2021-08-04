@@ -5,7 +5,7 @@
 
 <div>
   <a href="https://beacons.ai/felipeventorim">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=felipeventorim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=felipeventorim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=7"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeventorim&layout=compact&langs_count=6&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
